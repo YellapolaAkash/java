@@ -3,7 +3,7 @@ import java.util.LinkedList;
 import java.util.ListIterator;
 public class linkedlist
 {
- void method1()
+ void method1() // linkedlist
  {
 	 LinkedList ll=new LinkedList();
 	 ll.add(10);
