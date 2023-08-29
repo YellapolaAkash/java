@@ -6,7 +6,7 @@ public class hashset
 {
 void method1()
 {
-	HashSet hs=new HashSet();
+	HashSet hs=new HashSet();//hashset
 	hs.add(10);
 	hs.add(20);
 	hs.add(30);
