@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 public class arraylist 
 {
-   void method1()// akash
+   void method1()// arraylist akash
    {
 	   ArrayList al=new ArrayList();
 	   al.add(10);
